@@ -55,16 +55,16 @@ section {
   padding: 100px 0;
 }
 
-.section-title {
-  text-align: center;
-  margin-bottom: 80px;
-}
-
-.section-title h3 {
+h1, h3 {
   font-family: 'Europa Bold', sans-serif;
   font-size: 44px;
   margin-bottom: 15px;
   color: #1A2578;
+}
+
+.section-title {
+  text-align: center;
+  margin-bottom: 80px;
 }
 
 .section-title span {

@@ -1,0 +1,33 @@
+.main .services-list .service {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main .services-list .service div * {
+  margin-bottom: 40px;
+}
+
+.main .services-list .service-text {
+  max-width: 500px;
+}
+
+.main .services-list .service-text p {
+  line-height: 1.5;
+}
+
+.main .products-join {
+  background: linear-gradient(342.12deg, #E3E7F6 -6.53%, rgba(227, 231, 246, 0) 87.81%);
+  text-align: center;
+}
+
+.main .products-join .join-links a {
+  margin: 0 10px;
+}
+/*# sourceMappingURL=products.css.map */
